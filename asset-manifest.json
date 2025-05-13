@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Bazzr/static/css/main.e9ac1e6c.css",
-    "main.js": "/Bazzr/static/js/main.afcad463.js",
+    "main.js": "/Bazzr/static/js/main.db17d6cf.js",
     "index.html": "/Bazzr/index.html",
     "main.e9ac1e6c.css.map": "/Bazzr/static/css/main.e9ac1e6c.css.map",
-    "main.afcad463.js.map": "/Bazzr/static/js/main.afcad463.js.map"
+    "main.db17d6cf.js.map": "/Bazzr/static/js/main.db17d6cf.js.map"
   },
   "entrypoints": [
     "static/css/main.e9ac1e6c.css",
-    "static/js/main.afcad463.js"
+    "static/js/main.db17d6cf.js"
   ]
 }
