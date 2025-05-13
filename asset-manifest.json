@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bazzr/static/css/main.e9ac1e6c.css",
+    "main.js": "/Bazzr/static/js/main.ae84e313.js",
+    "static/js/787.f0427b78.chunk.js": "/Bazzr/static/js/787.f0427b78.chunk.js",
+    "index.html": "/Bazzr/index.html",
+    "main.e9ac1e6c.css.map": "/Bazzr/static/css/main.e9ac1e6c.css.map",
+    "main.ae84e313.js.map": "/Bazzr/static/js/main.ae84e313.js.map",
+    "787.f0427b78.chunk.js.map": "/Bazzr/static/js/787.f0427b78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9ac1e6c.css",
+    "static/js/main.ae84e313.js"
+  ]
+}
